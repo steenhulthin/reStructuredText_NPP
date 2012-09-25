@@ -1,7 +1,7 @@
 =================================================================================
  reStructuredText_NPP_ - reStructuredText basic syntax higlighting for Notepad++
 =================================================================================
-:Author: Steen Hulthin Rasmussen <kontakt@percipio.dk> 
+:Author: Steen Hulthin Rasmussen <opensource@percipio.dk> 
 :Date: |date|
 :Description: reStructuredText_NPP_ is a User Defined Language for `Notepad++`_ that provides basic syntax higlighting for reStructuredText_. 
 :License: reStructuredText_NPP_ is licensensed under *The MIT License* (see http://opensource.org/licenses/mit-license.php or the license.txt file)
@@ -16,8 +16,10 @@ Install
 #. Make sure you have `Notepad++`_ installed with the option to use %APPDATA% (which is the default).
 #. Download and unzip the zipped reStructuredText.xml from the download tab (This is the only file you need in order to use reStructuredText_NPP_.) 
 #. Start `Notepad++`_ and open the "User Defined Dialogue..." (Under View -> User Defined Dialogue...) 
+
 .. image:: documentation/select_user-defined_dialogue.png
 #. Click "import" and select the unzipped reStructuredText.xml file.
+
 .. image:: documentation/import_user_define_language.png
 #. Restart `Notepad++`_
 
