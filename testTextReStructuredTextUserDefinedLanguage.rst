@@ -84,6 +84,11 @@ Bullet lists:
 - This is item 1
 - This is item 2
 
+* bullet point
+
++ another bullet point
+
+
 - Bullets are "-", "*" or "+".
   Continuing text must be aligned
   after the bullet and whitespace.
