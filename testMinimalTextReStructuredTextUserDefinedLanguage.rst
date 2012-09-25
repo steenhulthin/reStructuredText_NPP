@@ -30,6 +30,9 @@ Bullet lists:
   Continuing text must be aligned
   after the bullet and whitespace.
 
+* bullet
++ different bullet.
+  
 Note that a blank line is required
 before the first item and after the
 last, but is optional between items. 
