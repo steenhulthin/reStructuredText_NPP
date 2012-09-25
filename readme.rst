@@ -17,10 +17,10 @@ Install
 #. Download and unzip the zipped reStructuredText.xml from the download tab (This is the only file you need in order to use reStructuredText_NPP_.) 
 #. Start `Notepad++`_ and open the "User Defined Dialogue..." (Under View -> User Defined Dialogue...) 
 
-.. image:: documentation/select_user-defined_dialogue.png
+.. image:: https://github.com/steenhulthin/reStructuredText_NPP/raw/master/documentation/select_user-defined_dialogue.png
 #. Click "import" and select the unzipped reStructuredText.xml file.
 
-.. image:: documentation/import_user_define_language.png
+.. image:: https://github.com/steenhulthin/reStructuredText_NPP/raw/master/documentation/import_user_define_language.png
 #. Restart `Notepad++`_
 
 Features
