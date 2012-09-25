@@ -27,7 +27,9 @@ Features
 ==========
 reStructuredText_NPP_ provides basic syntax highlighting. reStructuredText_NPP_ is not a full lexer for reStructuredText and does *not* highlight all elements of reStructuredText markup specification (correctly). 
 
-Highlighted element::
+Highlighted element:
+--------------------
+
 * tables
 * directives
 * Bullet lists
