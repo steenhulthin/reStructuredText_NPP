@@ -19,9 +19,11 @@ Install
 
 .. _`download site`: http://steen.hulthin.dk/opensource/reStructuredText_NPP/downloads/reStructuredText_v0.1.zip
 .. image:: https://github.com/steenhulthin/reStructuredText_NPP/raw/master/documentation/select_user-defined_dialogue.png
+
 4. Click "import" and select the unzipped reStructuredText.xml file.
 
 .. image:: https://github.com/steenhulthin/reStructuredText_NPP/raw/master/documentation/import_user_define_language.png
+
 5. Restart `Notepad++`_
 
 Features
