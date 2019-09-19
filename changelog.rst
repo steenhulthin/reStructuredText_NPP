@@ -15,10 +15,12 @@ and this project adheres to `Semantic Versioning`_
 ------------
 Nothing yet.
 
-[1.0.0] - 2012-09-26
+[1.0.0] - 2019-09-20
 --------------------
 Added
 ~~~~~
+- Using UDL (user define language) 2.1.
+- Improved handling for sections underlining. 
 - Changelog (this file) added.
 
 
