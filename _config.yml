@@ -1,0 +1,8 @@
+title: Restructuredtext npp
+description: Provides syntax higlighting for reStructuredText for Notepad++ through a user defined language file.
+google_analytics: UA-48480084-2
+show_downloads: true
+theme: jekyll-theme-slate
+
+gems:
+  - jekyll-mentions
