@@ -52,7 +52,7 @@
 </ul>
 </div>
 </div>
-Translation of readme.rst to html for this page was done with <a href="http://rst.ninjs.org/">rsted</a>
+Translation of readme.rst to html for this page used to be done with rsted (which is no longer available online.)
  </div>
 
 </div>
